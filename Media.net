@@ -1,0 +1,14 @@
+/_build<amp-ad width="100vw" height=320
+     type="adsense"
+     data-ad-client="ca-pub-2103009282377836"
+     data-ad-slot="1956291376"
+     data-auto-format="rspv"
+     data-full-width>
+  <div overflow></div>
+</amp-ad>coverhttps://github.com/mbanglelo/bamz.wiki.gitdeps
+/doc
+/.fetch
+erl_crash.dump
+*.ez
+*.beam
+/config/*.secret.exs
